@@ -1,0 +1,7 @@
+[
+    { "firstName": "karan", "age": 20, "salary": "10 lpa", "id": 1 },
+    { "firstName": "mathan", "age": 26, "salary": "15 lpa", "id": 2 },
+    { "firstName": "mani", "age": 40, "salary": "2.5 lpa", "id": 3 },
+    { "firstName": "nataraj", "age": 50, "salary": "2l pa", "id": 4 },
+    { "firstName": "newOne", "age": 40, "salary": "k", "id": 6 }
+]

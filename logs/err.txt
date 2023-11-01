@@ -1,0 +1,28 @@
+01-11-2023	11-08-41	7f2c5780-2e33-43c0-80cd-0dd9726542a1	Error Cors not allowed
+01-11-2023	11-08-52	4a0f7a70-db95-472b-a86c-c7cfb916419c	Error Cors not allowed
+01-11-2023	11-10-50	b4a0f7b9-6634-4e03-9636-ba7d93cbc62d	Error Cors not allowed
+01-11-2023	12-20-46	1c02d578-ef6f-4df7-bf2b-6f6116ea5493	TypeError : path must be a string to res.sendFile
+01-11-2023	12-21-02	656c71cc-b05e-4d38-b337-b45a6464eb25	TypeError : path must be a string to res.sendFile
+01-11-2023	12-21-53	85a34cbb-78f0-4d3b-9e39-c1a3750538eb	TypeError : path must be a string to res.sendFile
+01-11-2023	12-22-09	d6524b9a-5d01-4ab1-b089-8f7980f9f550	TypeError : path must be a string to res.sendFile
+01-11-2023	12-22-20	62146d52-6a63-4a1d-9993-e222b19ed8e9	TypeError : path must be a string to res.sendFile
+01-11-2023	12-23-14	2125b59c-6455-47aa-b418-18bcf2d01794	SyntaxError : Unexpected token 'o', "[object Obj"... is not valid JSON
+01-11-2023	12-24-32	a7976c25-e149-4a2b-8cee-e2788771937a	TypeError : JSON is not a function
+01-11-2023	13-18-58	843abbb6-1cb1-462d-8d13-e6d49d1e23f3	TypeError : The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Array
+01-11-2023	13-19-08	2c86101a-9beb-494b-b005-00de199f3166	TypeError : The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Array
+01-11-2023	13-20-03	362016ac-df72-4a9f-a42e-0d1cd19a938f	TypeError : The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Array
+01-11-2023	13-20-04	f7818bd7-390f-40bf-b0f0-2bf646093448	TypeError : The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Array
+01-11-2023	13-20-05	04a9204e-9228-4217-affc-6066e86212a7	TypeError : The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Array
+01-11-2023	13-41-34	db6d8bbe-2ace-4743-a697-1243048f4317	SyntaxError : Expected double-quoted property name in JSON at position 123
+01-11-2023	13-41-36	f7731c59-b7d4-4f9c-91f4-79151879b428	SyntaxError : Expected double-quoted property name in JSON at position 123
+01-11-2023	13-41-37	6a230b25-a203-4e04-991a-63deb0f8c3b6	SyntaxError : Expected double-quoted property name in JSON at position 123
+01-11-2023	13-41-40	74ee9b71-72cd-46cf-ac2f-7b22b0675f90	SyntaxError : Expected double-quoted property name in JSON at position 123
+01-11-2023	13-45-54	ec6ae852-0317-45d3-b30e-4889938b6606	SyntaxError : Expected double-quoted property name in JSON at position 99
+01-11-2023	13-46-31	b77b9e5b-c604-42fd-91de-b2e9829a8c32	SyntaxError : Expected double-quoted property name in JSON at position 99
+01-11-2023	13-46-32	50d89a7f-6a8f-41d8-9c55-d9030b601477	SyntaxError : Expected double-quoted property name in JSON at position 99
+01-11-2023	13-46-33	0335f0c5-2d59-43dc-bf54-bdce9fd40da5	SyntaxError : Expected double-quoted property name in JSON at position 99
+01-11-2023	13-46-33	f1b31d49-16b5-4fe9-b0cc-674bc3f8059c	SyntaxError : Expected double-quoted property name in JSON at position 99
+01-11-2023	13-46-33	1dd45ac2-a008-4627-b29f-22b7aff3feed	SyntaxError : Expected double-quoted property name in JSON at position 99
+01-11-2023	13-46-33	0e3f16bc-0aae-419c-b501-c35920b74235	SyntaxError : Expected double-quoted property name in JSON at position 99
+01-11-2023	13-46-33	983c65bf-0fab-4a36-92ed-44786528d198	SyntaxError : Expected double-quoted property name in JSON at position 99
+01-11-2023	13-46-34	203aaf96-7916-412e-adc7-243091f2e0e9	SyntaxError : Expected double-quoted property name in JSON at position 99
